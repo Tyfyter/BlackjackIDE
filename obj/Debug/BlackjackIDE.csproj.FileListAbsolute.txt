@@ -1,0 +1,8 @@
+F:\Users\Tyfyter\source\repos\BlackjackIDE\bin\Debug\BlackjackIDE.exe.config
+F:\Users\Tyfyter\source\repos\BlackjackIDE\bin\Debug\BlackjackIDE.exe
+F:\Users\Tyfyter\source\repos\BlackjackIDE\bin\Debug\BlackjackIDE.pdb
+F:\Users\Tyfyter\source\repos\BlackjackIDE\obj\Debug\BlackjackIDE.csprojAssemblyReference.cache
+F:\Users\Tyfyter\source\repos\BlackjackIDE\obj\Debug\BlackjackIDE.csproj.CoreCompileInputs.cache
+F:\Users\Tyfyter\source\repos\BlackjackIDE\obj\Debug\BlackjackIDE.exe
+F:\Users\Tyfyter\source\repos\BlackjackIDE\obj\Debug\BlackjackIDE.pdb
+F:\Users\Tyfyter\source\repos\BlackjackIDE\bin\Debug\icon.ico
