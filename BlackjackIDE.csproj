@@ -53,6 +53,9 @@
   <ItemGroup>
     <Compile Include="Blackjack.cs" />
     <Compile Include="External.cs" />
+    <Compile Include="Extensions.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
